@@ -1,0 +1,7 @@
+{
+  "name": "VELONIX'2K26 - IT Symposium",
+  "description": "A fully responsive, modern, animated, full-stack event website for a college technical symposium with registration, UPI payment verification, and admin dashboard.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
